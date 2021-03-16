@@ -1,0 +1,9 @@
+.linegraph > canvas{
+    padding: 0 0.8em 0.5em;
+    height: 15em !important;
+}
+@media (max-width: 800px){
+    .linegraph > canvas{
+        height: 10em !important;
+    }  
+}

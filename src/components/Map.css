@@ -1,0 +1,27 @@
+.map{
+height: 30em;
+background-color: #fff;
+padding: 1em;
+border-radius: 20px;
+box-shadow: 0 0 8px -4px rgba(0, 0, 0, 0.5);
+}
+.map > .leaflet-container{
+    height: 100%;
+}
+.info-flag{
+    width: 100% !important;
+    height: 4em !important;
+    background-repeat: no-repeat;
+    background-size:contain ;
+}
+.leaflet-popup-content-wrapper.leaflet-popup-tip{
+    background-color: #f4f5fa !important;
+}
+.info-country{
+color: black;
+}
+@media  (max-width:700px){
+    .map{
+        height:20em
+    }
+} 
