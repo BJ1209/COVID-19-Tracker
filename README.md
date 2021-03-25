@@ -2,7 +2,7 @@
 
 ## Made by ReactJs, Diseases.sh API
 
-[!App](./src/images/covid-19.png)
+![App](./src/images/covid-19.png)
 
 ### Tech Used:-
 
